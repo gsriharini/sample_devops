@@ -10,4 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> af88b1336d9c07c46acfcd8d31997bbbdf4f05c5

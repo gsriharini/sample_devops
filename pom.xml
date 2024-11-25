@@ -5,7 +5,11 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
+<<<<<<< HEAD
 		<version>2.7.15</version>
+=======
+		<version>3.4.0</version>
+>>>>>>> af88b1336d9c07c46acfcd8d31997bbbdf4f05c5
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
@@ -27,7 +31,11 @@
 		<url/>
 	</scm>
 	<properties>
+<<<<<<< HEAD
 		<java.version>11</java.version>
+=======
+		<java.version>17</java.version>
+>>>>>>> af88b1336d9c07c46acfcd8d31997bbbdf4f05c5
 	</properties>
 	<dependencies>
 		<dependency>
@@ -57,4 +65,8 @@
 		</plugins>
 	</build>
 
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> af88b1336d9c07c46acfcd8d31997bbbdf4f05c5
